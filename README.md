@@ -1,5 +1,5 @@
-# wamp
-about wamp in windows
+# WAMP
+about wamp in windows 7
 
 How to add wamp to startup
 
